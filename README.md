@@ -18,10 +18,8 @@ Please reach out to @colinxfleming if you have any questions about any
 of the above, as git is kinda counterintuitive magic the first couple of
 times you use it.
 
-Since this isn't production code at this time, it's okay to push straight to
-the master branch, but we don't recommend it.
-
 ## Managers of this repository
 
 * @alisonnjones
+* @mdworken
 * @colinxfleming
