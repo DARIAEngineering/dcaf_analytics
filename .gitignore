@@ -1,5 +1,5 @@
 ## Taken from https://github.com/github/gitignore/
-#
+#  Although this file should prevent the posting of anything sensitive, PLEASE self-check that you are not including any input/output data, visualizations, or anything else sensistive. If in doubt, ping @mdworken on our slack.
 
 # History files
 .Rhistory
