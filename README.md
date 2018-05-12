@@ -8,7 +8,7 @@ This repo is for sharing analysis code of anonymized data from
 @alisonnjones sets the analytics agenda for this team, so please check with
 her before working on projects.
 
-Please put your analysis code in the `analytics/` folder.
+Please put your analysis code in the `analytics/` folder. Do NOT include any data files, visualizations, or otherwise sensitive information in this or any other public repo. This includes any forked repos.
 
 If you are a member of the analysts team of DCAFEngineering, feel free to
 push to a branch in this repo or fork and pull request, whatever you're
