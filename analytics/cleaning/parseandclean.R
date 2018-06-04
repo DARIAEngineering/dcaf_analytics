@@ -161,3 +161,6 @@ dcaf = dcaf %>%
   mutate(insurance = ifelse(insurance == "Other State Medicaid", "Other state Medicaid", insurance)) %>%
   mutate(insurance = parse_factor(insurance, levels = NULL))
 
+
+write.csv(dcaf, "dcaf_clean.csv")
+
