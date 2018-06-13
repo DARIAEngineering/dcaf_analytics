@@ -1,5 +1,6 @@
 ##Generate Initial CSV
 # This is the script @mdworken uses to generate the data analysis csv that we distribute to volunteers.
+# You do NOT need to run it, and it is provided for REFERENCE PURPOSES ONLY.
 # Sensitive fields are cleaned/edited here before distribution.
 
 ##Import Packages
